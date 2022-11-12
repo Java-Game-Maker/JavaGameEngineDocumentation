@@ -4,9 +4,3 @@ com.javagamemaker.javagameengine.components.shapes
 com.javagamemaker.javagameengine.input
 com.javagamemaker.javagameengine.msc
 com.javagamemaker.javagameengine.networking
-com.javagamemaker.testing
-com.javagamemaker.testing.car
-com.javagamemaker.testing.portalgame
-com.javagamemaker.testing.sin
-com.javagamemaker.testing.solar
-com.javagamemaker.testing.spel1
